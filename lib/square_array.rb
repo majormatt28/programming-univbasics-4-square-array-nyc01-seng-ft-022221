@@ -1,6 +1,6 @@
 # your code here
 def square_array(numbers)
-  array = [1,2,3]
+  count = 0
   new_numbers = []
   numbers.length.times do |index|
     new_numbers.push (array[index] * 2)
